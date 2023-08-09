@@ -2,51 +2,21 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "que bom que você veio",
-      "autoria": "Shirley",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 1,
-      "conteudo": "tmj",
-      "autoria": "rey",
+      "conteudo": "hello hello",
+      "autoria": "keke",
       "modelo": "modelo2"
     },
     {
-      "id": 1,
-      "conteudo": "hello hello",
-      "autoria": "keke",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "pietrinho",
-      "autoria": "Desenvolvedor junior ",
-      "modelo": "modelo2",
-      "id": 2
-    },
-    {
-      "conteudo": "gabi",
-      "autoria": "analista junior",
-      "modelo": "modelo2",
-      "id": 3
-    },
-    {
-      "conteudo": "ahahhsgsdg",
+      "conteudo": "gabizinha",
       "autoria": "gsfdfjnkmgl",
       "modelo": "modelo2",
       "id": 4
     },
     {
-      "conteudo": "",
-      "autoria": "",
+      "conteudo": "pietrinho",
+      "autoria": "Dev junior ",
       "modelo": "modelo1",
-      "id": 5
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1",
-      "id": 6
+      "id": 7
     }
   ]
 }
